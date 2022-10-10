@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ls: list files in directory. -l prints permissions. -a all files including hidden ones\n" > ls_cwd_content
